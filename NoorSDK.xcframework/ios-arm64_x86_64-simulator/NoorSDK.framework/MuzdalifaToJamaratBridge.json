@@ -1,0 +1,253 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ335QFwMHwhURcD1cDyrMQ1w",
+         "types" : [ "establishment", "point_of_interest" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJORV7yTYFwhURGQia6dpvD0E",
+         "types" : [ "establishment", "place_of_worship", "point_of_interest" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 21.4200693,
+               "lng" : 39.9118522
+            },
+            "southwest" : {
+               "lat" : 21.3855642,
+               "lng" : 39.8723713
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "6.3 km",
+                  "value" : 6255
+               },
+               "duration" : {
+                  "text" : "8 mins",
+                  "value" : 467
+               },
+               "end_address" : "Unnamed Road, المشاعر، مكة 24244, Saudi Arabia",
+               "end_location" : {
+                  "lat" : 21.4200693,
+                  "lng" : 39.8723713
+               },
+               "start_address" : "مزدلفة، المشاعر،، Al Mashair, Makkah 24252, Saudi Arabia",
+               "start_location" : {
+                  "lat" : 21.3858568,
+                  "lng" : 39.9118522
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 423
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 34
+                     },
+                     "end_location" : {
+                        "lat" : 21.3883637,
+                        "lng" : 39.9088264
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorthwest\u003c/b\u003e on \u003cb\u003e\u003cspan dir=\"rtl\"\u003eطريق الملك فيصل\u003c/span\u003e‎\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "s|oaCahrrFeBtAuAnAk@l@EDIJa@f@q@bAOZwClF"
+                     },
+                     "start_location" : {
+                        "lat" : 21.3858568,
+                        "lng" : 39.9118522
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 419
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 44
+                     },
+                     "end_location" : {
+                        "lat" : 21.3855642,
+                        "lng" : 39.9061319
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e\u003cspan dir=\"rtl\"\u003eطريق 903\u003c/span\u003e‎\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "glpaCeuqrFZXZVr@j@lAhAp@n@zA~AXXlApAZ^\\\\^\\?@d@X"
+                     },
+                     "start_location" : {
+                        "lat" : 21.3883637,
+                        "lng" : 39.9088264
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "3.7 km",
+                        "value" : 3746
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 238
+                     },
+                     "end_location" : {
+                        "lat" : 21.4108853,
+                        "lng" : 39.8846034
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKing Abdul Aziz Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "wzoaCidqrF[tAo@pCY~@KZc@z@EH[b@c@p@[ZYXSNQLSLOH_@P]Ne@Nq@Pa@Ja@LeAX_@JeBf@{@X}Ab@m@Ni@J]HyATYDuAV}Bb@]HkAV}@TYHmBd@}Cv@kAZqA\\s@RMDy@Xo@Tk@TgAf@g@RkAd@YNk@ZkB`AuAt@u@`@ULaBfAw@h@mAx@yBbB]Va@Z]\\c@`@IJ]\\k@p@]`@]^IL[`@W^U\\Q\\U^OZ[r@[v@]|@_@z@e@nAa@`Aq@xAcAvBw@~Ak@hA_AbB]n@IN{@`B_@r@[f@OTS\\?@SXABORy@fA[`@ON_@^w@v@A@yA`BaB~AGF[\\wA|AKJEDUR]VoAz@A@A@_@Ps@\\_@LSJYLSJQH"
+                     },
+                     "start_location" : {
+                        "lat" : 21.3855642,
+                        "lng" : 39.9061319
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 252
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 21.4125758,
+                        "lng" : 39.8830933
+                     },
+                     "html_instructions" : "Take the exit",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "aytaCw}lrF{@Pq@Vo@`@k@l@KLo@r@k@`A_@n@"
+                     },
+                     "start_location" : {
+                        "lat" : 21.4108853,
+                        "lng" : 39.8846034
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 251
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 24
+                     },
+                     "end_location" : {
+                        "lat" : 21.4138875,
+                        "lng" : 39.8811381
+                     },
+                     "html_instructions" : "Continue straight",
+                     "maneuver" : "straight",
+                     "polyline" : {
+                        "points" : "scuaCitlrFk@hAsBbES`@CB[Zq@t@"
+                     },
+                     "start_location" : {
+                        "lat" : 21.4125758,
+                        "lng" : 39.8830933
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "21 m",
+                        "value" : 21
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 5
+                     },
+                     "end_location" : {
+                        "lat" : 21.4140444,
+                        "lng" : 39.8812459
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e toward \u003cb\u003eRd 50 - King Faisal Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "ykuaCchlrF]U"
+                     },
+                     "start_location" : {
+                        "lat" : 21.4138875,
+                        "lng" : 39.8811381
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "36 m",
+                        "value" : 36
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 7
+                     },
+                     "end_location" : {
+                        "lat" : 21.4142441,
+                        "lng" : 39.8809732
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eRd 50 - King Faisal Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "wluaCyhlrFg@v@"
+                     },
+                     "start_location" : {
+                        "lat" : 21.4140444,
+                        "lng" : 39.8812459
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.1 km",
+                        "value" : 1107
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 93
+                     },
+                     "end_location" : {
+                        "lat" : 21.4200693,
+                        "lng" : 39.8723713
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e\u003cspan dir=\"rtl\"\u003eطريق الملك فيصل\u003c/span\u003e‎\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the right\u003c/div\u003e",
+                     "maneuver" : "turn-slight-right",
+                     "polyline" : {
+                        "points" : "_nuaCaglrFa@JG@_@VGJKPOVk@|@qElHuAdCmAzBeD~Fg@|@eFvIeAfBcCnF"
+                     },
+                     "start_location" : {
+                        "lat" : 21.4142441,
+                        "lng" : 39.8809732
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "s|oaCahrrF{DdDq@r@k@r@aA~AwClFZXnAbA~BxBtBxBfDlDd@ZkAfFe@zAi@dA_AtAu@t@e@\\c@V}@`@wA`@iD~@aD`AkCr@{Dp@sEz@iB`@cJ|B_FrAiBn@sB|@sBx@eAj@mGfDyCpBgE|C_Ar@aA~@qB|Bg@l@s@`Ag@z@e@z@uBdFgApCuBpEcBhD}ArCaClEw@nAgB`CiIpI_CbCqBvAgChAm@XQH{@Pq@Vo@`@w@z@o@r@k@`AkAxBgCdF_@^q@t@]Ug@v@a@Jg@XS\\{@tAqElHuAdCsFzJmGtKeAfBcCnF"
+         },
+         "summary" : "King Abdul Aziz Rd",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,394 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJ9SdKRoD96RURYnyalRUmPqc",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJRf6cFwQEwhUR6D1c0QB5PG0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 21.4182533,
+               "lng" : 39.9854201
+            },
+            "southwest" : {
+               "lat" : 21.351923,
+               "lng" : 39.8811015
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "17.9 km",
+                  "value" : 17922
+               },
+               "duration" : {
+                  "text" : "19 mins",
+                  "value" : 1136
+               },
+               "end_address" : "3908 Street 206, Al Mashair, Makkah 24247 8890, Saudi Arabia",
+               "end_location" : {
+                  "lat" : 21.413184,
+                  "lng" : 39.8932445
+               },
+               "start_address" : "3613, Al Mashair, Makkah 24258 9188, Saudi Arabia",
+               "start_location" : {
+                  "lat" : 21.3549298,
+                  "lng" : 39.9854201
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.4 km",
+                        "value" : 381
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 47
+                     },
+                     "end_location" : {
+                        "lat" : 21.3556365,
+                        "lng" : 39.9826212
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "i{iaC{s`sFI@WBa@JYLOHUNA?YVOLILWb@IRGRMh@CRCTAl@?R@VHh@DRFTFNFNHNHNJLJJJLJJ"
+                     },
+                     "start_location" : {
+                        "lat" : 21.3549298,
+                        "lng" : 39.9854201
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.5 km",
+                        "value" : 464
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 55
+                     },
+                     "end_location" : {
+                        "lat" : 21.3566285,
+                        "lng" : 39.9786066
+                     },
+                     "html_instructions" : "Exit the roundabout",
+                     "polyline" : {
+                        "points" : "w_jaCkb`sF@R@R?JBLBRJ`@DP?BDLP|@Fb@DV?@Bb@?J?LCHEHqAjCmAbCcBfD"
+                     },
+                     "start_location" : {
+                        "lat" : 21.3556365,
+                        "lng" : 39.9826212
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.1 km",
+                        "value" : 96
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 17
+                     },
+                     "end_location" : {
+                        "lat" : 21.3573662,
+                        "lng" : 39.9790938
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003e6 St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}ejaCii_sFsC_B"
+                     },
+                     "start_location" : {
+                        "lat" : 21.3566285,
+                        "lng" : 39.9786066
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 km",
+                        "value" : 701
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 63
+                     },
+                     "end_location" : {
+                        "lat" : 21.3613684,
+                        "lng" : 39.974208
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e at the 1st cross street onto \u003cb\u003e602 St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "qjjaCil_sFkGhMeAhBy@`Ba@t@s@rAe@v@ILA?GFMHYRQHQFWFUBk@DMBG@WD[JSF"
+                     },
+                     "start_location" : {
+                        "lat" : 21.3573662,
+                        "lng" : 39.9790938
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1304
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 102
+                     },
+                     "end_location" : {
+                        "lat" : 21.3666242,
+                        "lng" : 39.9632084
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003e\u003cspan dir=\"rtl\"\u003eطريق 68 - طريق الملك فهد\u003c/span\u003e‎\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "qckaCym~rF[j@GJ_@t@S^INoA`CABiC`Fy@`BSd@_@t@o@tAkA|Bc@`AQTIJKPKRKTS\\k@fACFGDGFaB`DKNOVOZKT[|@Ob@U|@K^Sn@I^Mv@Mx@Ix@Ef@E`@?PANAb@Ad@?`@?`@@`@@N"
+                     },
+                     "start_location" : {
+                        "lat" : 21.3613684,
+                        "lng" : 39.974208
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.3 km",
+                        "value" : 2253
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 123
+                     },
+                     "end_location" : {
+                        "lat" : 21.3519401,
+                        "lng" : 39.9533978
+                     },
+                     "html_instructions" : "Sharp \u003cb\u003eleft\u003c/b\u003e to merge onto \u003cb\u003eArafat Ring Rd\u003c/b\u003e",
+                     "maneuver" : "ramp-left",
+                     "polyline" : {
+                        "points" : "kdlaCai|rFTA@UFeBBo@Fq@@K@GD]FYHSFOHMJMNQNMJILGLGNEJADAHAXANAF@L?J@JBH@NDLFPHRJTF`@\\ZVf@b@p@n@PPt@p@hAbAr@p@p@l@p@j@`BzAZXp@l@lBbBrBhBfB`BtApAr@n@l@h@XXHFNLl@j@fAbAn@j@DFd@`@pBfBt@n@tBrB`BxAx@r@v@t@ZVTRzBtBd@b@tAlAjD~C~AvA~@x@"
+                     },
+                     "start_location" : {
+                        "lat" : 21.3666242,
+                        "lng" : 39.9632084
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "6.1 km",
+                        "value" : 6107
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 304
+                     },
+                     "end_location" : {
+                        "lat" : 21.3837326,
+                        "lng" : 39.91151139999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eKing Abdul Aziz Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "shiaCwkzrFBT?HAHI\\C@y@X}@Z[Ns@X}@`@}Az@iBdA}BrA{BrAWLoAr@[Rq@^g@Xe@XuAx@MH_@RqAx@GBy@f@k@\\YV[Tm@h@STEFIH_@f@W^U^]p@IRIPQh@Un@YbAADI\\k@rB_AjDm@vBw@pCYbAi@jBOn@GXKj@E\\IbAAl@?h@@p@Dx@HlAr@jPFjBBh@@b@Dr@Dj@Bh@Bb@Bf@Bf@Bb@@T?T@V@T@R@R@V?N@R@\\@VBh@@b@?X?X?p@?d@AV?NC\\AXALCRAPGb@EXG^G\\GXGTGVK\\ELK\\O\\MXKTGLKPKPINKPCBEFA@CDMPSVMNONKJUTKHSPMJMJA@YP]V]Tu@b@o@\\[R]Na@Ts@^aAd@w@`@[PKDu@`@}@d@e@To@\\o@\\i@V_@Ro@\\g@Vm@ZKDWNQJYLQJUJQJSJMFQJOHOHKDSLQHULKDMHSHIFQHw@`@c@TSJsCzAq@\\{BhA_Ah@}Av@mB`A{Ax@oB`AkB~@w@^i@V}@d@g@Xo@\\mC~Ay@d@{B`Bo@d@e@^MLa@^WXe@f@IJYZCBmApA}@~@c@d@GF_@^[^_@b@SVQTILW\\a@j@[b@m@v@YZSTg@j@EFe@n@w@dAW`@CBc@r@QZSZQ\\O\\Q^Wf@Sd@CFQd@M\\?@K\\ITGTGTOj@[fA?@Qf@K\\GREN"
+                     },
+                     "start_location" : {
+                        "lat" : 21.3519401,
+                        "lng" : 39.9533978
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "4.3 km",
+                        "value" : 4341
+                     },
+                     "duration" : {
+                        "text" : "5 mins",
+                        "value" : 276
+                     },
+                     "end_location" : {
+                        "lat" : 21.4108853,
+                        "lng" : 39.8846034
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eKing Abdul Aziz Rd\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "iooaC}errFCFMNGJCDCFY~@K\\e@pB}@pEIf@[|AOn@m@hCQ|@i@zBa@dB[tAo@pCY~@KZc@z@EH[b@c@p@[ZYXSNQLSLOH_@P]Ne@Nq@Pa@Ja@LeAX_@JeBf@{@X}Ab@m@Ni@J]HyATYDuAV}Bb@]HkAV}@TYHmBd@}Cv@kAZqA\\s@RMDy@Xo@Tk@TgAf@g@RkAd@YNk@ZkB`AuAt@u@`@ULaBfAw@h@mAx@yBbB]Va@Z]\\c@`@IJ]\\k@p@]`@]^IL[`@W^U\\Q\\U^OZ[r@[v@]|@_@z@e@nAa@`Aq@xAcAvBw@~Ak@hA_AbB]n@IN{@`B_@r@[f@OTS\\?@SXABORy@fA[`@ON_@^w@v@A@yA`BaB~AGF[\\wA|AKJEDUR]VoAz@A@A@_@Ps@\\_@LSJYLSJQH"
+                     },
+                     "start_location" : {
+                        "lat" : 21.3837326,
+                        "lng" : 39.91151139999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 252
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 21.4125758,
+                        "lng" : 39.8830933
+                     },
+                     "html_instructions" : "Take the exit toward \u003cb\u003eKing Khalid Bridge\u003c/b\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "aytaCw}lrF{@Pq@Vo@`@k@l@KLo@r@k@`A_@n@"
+                     },
+                     "start_location" : {
+                        "lat" : 21.4108853,
+                        "lng" : 39.8846034
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "75 m",
+                        "value" : 75
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 6
+                     },
+                     "end_location" : {
+                        "lat" : 21.4127175,
+                        "lng" : 39.88239129999999
+                     },
+                     "html_instructions" : "Continue toward \u003cb\u003eKing Khalid Bridge\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "scuaCitlrFCJGRCZCj@CTCL"
+                     },
+                     "start_location" : {
+                        "lat" : 21.4125758,
+                        "lng" : 39.8830933
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 631
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 40
+                     },
+                     "end_location" : {
+                        "lat" : 21.4174586,
+                        "lng" : 39.8828077
+                     },
+                     "html_instructions" : "Keep \u003cb\u003eright\u003c/b\u003e and merge onto \u003cb\u003eKing Khalid Bridge\u003c/b\u003e",
+                     "maneuver" : "keep-right",
+                     "polyline" : {
+                        "points" : "oduaC}olrFkA`CEFU`@UVQPUNWJ]HWB]?Y?S@cAc@mAm@CAgBw@SKyCqAEAyAq@_Ac@g@S"
+                     },
+                     "start_location" : {
+                        "lat" : 21.4127175,
+                        "lng" : 39.88239129999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.0 km",
+                        "value" : 1006
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 61
+                     },
+                     "end_location" : {
+                        "lat" : 21.4149316,
+                        "lng" : 39.8910017
+                     },
+                     "html_instructions" : "Take the ramp onto \u003cb\u003eKing Fahd Rd\u003c/b\u003e",
+                     "maneuver" : "ramp-right",
+                     "polyline" : {
+                        "points" : "cbvaCqrlrFIMIIQMSUU[QWCEMUIWGUEOOeAA[?q@B_@@I@e@Ci@Lm@Rm@Lc@ZeAVy@Vq@PWPS^a@pBgBhEqENQFKDIJQPg@HSFUDSBQ@U@e@A_@?e@@M?QBSDQBKDKNYVg@"
+                     },
+                     "start_location" : {
+                        "lat" : 21.4174586,
+                        "lng" : 39.8828077
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "6 m",
+                        "value" : 6
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 21.4148912,
+                        "lng" : 39.8909653
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "iruaCwenrFFD"
+                     },
+                     "start_location" : {
+                        "lat" : 21.4149316,
+                        "lng" : 39.8910017
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 305
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 20
+                     },
+                     "end_location" : {
+                        "lat" : 21.413184,
+                        "lng" : 39.8932445
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "aruaCqenrFj@s@p@w@v@}@t@w@Z_@NSP[Zw@n@{A"
+                     },
+                     "start_location" : {
+                        "lat" : 21.4148912,
+                        "lng" : 39.8909653
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "i{iaC{s`sFa@D{@Xe@X[VYZWb@Qf@Q|@EbA@j@N|@Nd@f@|@VXJJ@R@^F`@VdAX`BDXBn@CViG`MsC_BkGhM_CjEuAhCo@dAq@d@c@Pm@JyAPo@Rc@v@mCfFyElJ_EjI[`@Wd@oAbCOLmBpD_@r@g@rAeApDWvAWrBMjBClCBp@TA@UJuCH}@Fe@Pm@P]Z_@ZWZOj@Kh@CT@p@LhAd@vChCfLhKzJ|IpEdEjFzEfDvCvElEbDtCbLfK~CpCB^Kf@}@ZyAj@qBz@gE`CyFfDuDtBeJpFeAt@iA~@cAnAm@~@g@dA[z@o@rBwBbIiDxLWhAQhAKpB@zAjA~WPlDVdGLnDD`CA~BKxAWnB_@dBm@fBm@nAe@v@Y`@}@bAcA|@gAv@_DjBuDjByIrEeG~C}GjDmMxGgJ|E}HxDeB~@}D|By@d@{B`BuAdAmBnBuB|BiClCaBpB_BzBgArA{@`A{B~CmAnBkAbCw@pBqAvEk@hB]h@]fAq@nCsBfK_AfEkA`FkAfFe@zAi@dA_AtAu@t@e@\\c@V}@`@{Cz@eBd@aD`AkCr@gATsBZsEz@aE`AiLvCkDhAsB|@sBx@gGbDkAn@yCpBgE|C_Ar@iBhBqB`Cs@`Ag@z@e@z@w@jBeCjGuBpEcBhDcDdG_BnCe@r@uAhBo@n@uFzFgCnC[XmBrAwAr@aBr@QH{@Pq@Vo@`@w@z@o@r@k@`Ac@z@Kn@G`ACLkA`CEFk@x@g@`@u@TWBw@?S@cAc@qAo@{BcA_DsAyCuAg@SIM[Wi@q@U]Wm@Me@QaBFaCCi@Lm@`@qAr@_CVq@PWp@u@pBgBhEqEV]P[Z{@Li@Dg@?eA@s@Be@H]Te@Vg@FD|AkBlBuBj@s@l@sAn@{A"
+         },
+         "summary" : "King Abdul Aziz Rd",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

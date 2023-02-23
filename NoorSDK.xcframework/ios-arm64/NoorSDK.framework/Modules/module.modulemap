@@ -1,0 +1,11 @@
+framework module NoorSDK {
+  umbrella header "NoorSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module NoorSDK.Swift {
+  header "NoorSDK-Swift.h"
+  requires objc
+}

@@ -1,0 +1,85 @@
+{
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJRf6cFwQEwhUR6D1c0QB5PG0",
+         "types" : [ "street_address" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJRf6cFwQEwhUR6D1c0QB5PG0",
+         "types" : [ "street_address" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 21.413184,
+               "lng" : 39.8932445
+            },
+            "southwest" : {
+               "lat" : 21.413184,
+               "lng" : 39.8932445
+            }
+         },
+         "copyrights" : "Map data ©2021",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "1 m",
+                  "value" : 0
+               },
+               "duration" : {
+                  "text" : "1 min",
+                  "value" : 0
+               },
+               "end_address" : "3908 Street 206, Al Mashair, Makkah 24247 8890, Saudi Arabia",
+               "end_location" : {
+                  "lat" : 21.413184,
+                  "lng" : 39.8932445
+               },
+               "start_address" : "3908 Street 206, Al Mashair, Makkah 24247 8890, Saudi Arabia",
+               "start_location" : {
+                  "lat" : 21.413184,
+                  "lng" : 39.8932445
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "1 m",
+                        "value" : 0
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 0
+                     },
+                     "end_location" : {
+                        "lat" : 21.413184,
+                        "lng" : 39.8932445
+                     },
+                     "html_instructions" : "Head",
+                     "polyline" : {
+                        "points" : "kguaCwsnrF"
+                     },
+                     "start_location" : {
+                        "lat" : 21.413184,
+                        "lng" : 39.8932445
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "kguaCwsnrF"
+         },
+         "summary" : "",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

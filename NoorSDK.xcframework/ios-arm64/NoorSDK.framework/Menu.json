@@ -1,0 +1,177 @@
+[
+    {
+        "identifier" : "Quran",
+        "english"    : "Quran",
+        "bangla"     : "পবিত্র কুরআন",
+        "malay"      : "Al Quran",
+        "image"      : "QuranImg",
+        "elementId" : {
+            "english":"60475c8b4c72ac924166475e",
+            "bangla" : "603639d9457ad2187d3f8445",
+            "malay" : "6045e3a5e546d9653c946ddf"
+        }
+    },
+    {
+        "identifier" : "Ramadan",
+        "english"    : "Ramadan",
+        "bangla"     : "রমজান",
+        "malay"      : "Ramadan",
+        "image"      : "Ramadan_img",
+        "elementId" : {
+            "english":"60696a5e48296ec92f3435d8",
+            "bangla" : "",
+            "malay" : "6045e610e546d9653c946dec"
+        }
+    },
+    {
+        "identifier" : "Dua",
+        "english"    : "Dua",
+        "bangla"     : "দোয়া",
+        "malay"      : "Dua",
+        "image"      : "DowaImg",
+        "elementId" : {
+            "english":"60475cbc4c72ac9241664760",
+            "bangla" : "601932aa577a7df13eda4c58",
+            "malay" : "6045e5d3e546d9653c946dea"
+        }
+    },
+    {
+        "identifier" : "Hadith",
+        "english"    : "Hadith",
+        "bangla"     : "হাদিস",
+        "malay"      : "Hadis",
+        "image"      : "HadithImg",
+        "elementId" : {
+            "english":"60475ca94c72ac924166475f",
+            "bangla" : "601f8eced3753b861d75d8e7",
+            "malay" : "6045e3d1e546d9653c946de0"
+        }
+    },
+
+    {
+        "identifier" : "Zakat Calculator",
+        "english"    : "Zakat Calculator",
+        "bangla"     : "যাকাত ক্যালকুলেটর",
+        "malay"      : "Zakat Kalkulator",
+        "image"      : "Zakat_Calculator_Img",
+        "elementId" : {
+            "english":"60475ccd4c72ac9241664761",
+            "bangla" : "6047013cf255bfe281719874",
+            "malay" : "6045e63ae546d9653c946ded"
+        }
+    },
+    
+    {
+        "identifier" : "Nearest Mosque",
+        "english"    : "Nearest Mosque",
+        "bangla"     : "নিকটবর্তী মসজিদ",
+        "malay"      : "Masjid terdekat",
+        "image"      : "Nearest_Mosque_Img",
+        "elementId" : {
+            "english":"60475ced4c72ac9241664762",
+            "bangla" : "60363a20457ad2187d3f8447",
+            "malay" : "6045e418e546d9653c946de1"
+        }
+    },
+    
+    {
+        "identifier" : "IslamicPodcast",
+        "english"    : "Islamic Podcast",
+        "bangla"     : "ইসলামিক পডকাস্ট",
+        "malay"      : "",
+        "image"      : "IslamicPodcast",
+        "elementId" : {
+            "english":"1234",
+            "bangla" : "60373e395d7a4acd37d5b4e0",
+            "malay" : "6789"
+        }
+    },
+    {
+        "identifier" : "Prayer Learning",
+        "english"    : "Prayer Learning",
+        "bangla"     : "নামাজ শিক্ষা",
+        "malay"      : "Pembelajaran solat",
+        "image"      : "NamazLearning",
+        "elementId" : {
+            "english":"60475d264c72ac9241664763",
+            "bangla" : "602cf1171d1390756aafe4ab",
+            "malay" : "6045e54de546d9653c946de6"
+        }
+    },
+    
+    {
+        "identifier" : "Hajj",
+        "english"    : "Hajj",
+        "bangla"     : "হজ্জ",
+        "malay"      : "Haji",
+        "image"     : "Hajj_Img",
+        "elementId" : {
+            "english":"607c0a0d487b8a05a8ce3261",
+            "bangla" : "60373df75d7a4acd37d5b4de",
+            "malay" : "6045e5c5e546d9653c946de9"
+        }
+    },
+    
+    {
+        "identifier" : "Donation",
+        "english"    : "Donation",
+        "bangla"     : "ডোনেশন",
+        "malay"      : "",
+        "image"      : "DonationImg",
+        "elementId" : {
+            "english":"60475c8b4c72ac924166475e",
+            "bangla" : "615e7c5322348fc226f6f24a",
+            "malay" : "6789"
+        }
+    },
+    {
+        "identifier" : "EidJamaatLocation",
+        "english"    : "Eid Jamaat location",
+        "bangla"     : "ঈদ জামাতের স্থান",
+        "malay"      : "",
+        "image"      : "Eid_jamat_LocationImg",
+        "elementId" : {
+            "english":"1234",
+            "bangla" : "60373e395d7a4acd37d5b4e0",
+            "malay" : "6789"
+        }
+    },
+    {
+        "identifier" : "99 Names of Allah",
+        "english"    : "99 Names of Allah",
+        "bangla"     : "আল্লাহর ৯৯ নাম",
+        "malay"      : "99 Nama Allah",
+        "image"      : "Ninety_nine_Name_of_Allah",
+        "elementId" : {
+            "english":"61503e1b320ac53a42b284e1",
+            "bangla" : "61503d36320ac53a42b284de",
+            "malay" : "6045e594e546d9653c946de7"
+        }
+    },
+    {
+        "identifier" : "Tasbih",
+        "english"    : "Tasbih",
+        "bangla"     : "তাসবীহ",
+        "malay"      : "Tasbih",
+        "image"      : "tasbih_Img",
+        "elementId" : {
+            "english":"60475e754c72ac924166476b",
+            "bangla" : "60363dfe457ad2187d3f844b",
+            "malay" : "6045e5e6e546d9653c946deb"
+        }
+    },
+    {
+        "identifier" : "Compass",
+        "english"    : "Compass",
+        "bangla"     : "কম্পাস",
+        "malay"      : "kompas",
+        "image"     : "CompassImg",
+        "elementId" : {
+            "english":"60475e494c72ac9241664769",
+            "bangla" : "603639fc457ad2187d3f8446        ",
+            "malay" : "6045e432e546d9653c946de2"
+        }
+    }
+
+]
+ 
