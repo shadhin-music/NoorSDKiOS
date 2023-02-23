@@ -6,12 +6,14 @@
 //
 
 import UIKit
+import NoorSDK
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
+        CoreIntegration.shared.goToHomeVC(with: self.navigationController)
     }
 
 
