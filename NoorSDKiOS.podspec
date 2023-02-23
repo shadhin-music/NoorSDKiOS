@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
     s.homepage          = 'https://github.com/shadhin-music/NoorSDKiOS'
 
     s.author            = { 'MD Abdul Mottaleb' => 'mottalebgakk@gmail.com' }
-    s.license      = { :type => "MIT", :file => "LICENSE" }
+    s.license      = { :type => "MIT", :file => "LICENCE" }
 
     s.platform          = :ios
     # change the source location
